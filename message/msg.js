@@ -737,12 +737,12 @@ case prefix+'infobot':
 
 ===================
 Thanks To
-- Riyan
-- Arasya
+- crack
+- Varvatos
 - Christian ID
-- Amel
-- Hardianto
-- Febri`
+- Gaius
+- xigosu
+- Febry
 
 conn.sendMessage(from, {caption: caption, location: fs.readFileSync('media/chris2.jpg')}, {quoted: msg})
 break
@@ -751,15 +751,15 @@ break
 			    reply(`◪ DONASI
   │
   ├─ ❏ GOPAY
-  ├─ ❏ 088213292687
+  ├─ ❏ 60122222247
   ├─ ❏ OVO
-  ├─ ❏ 088213292687
+  ├─ ❏ 60122222247
   ├─ ❏ PULSA
-  ├─ ❏ 081319944917
+  ├─ ❏ 60122222247
   ├─ ❏ PULSA2
-  ├─ ❏ 088213292687
+  ├─ ❏ 60122222247
   ├─ ❏ INSTAGRAM
-  └─ ❏ https://www.instagram.com/chris.tianid
+  └─ ❏ https://www.instagram.com/xxgaius
   
   Donasi Untuk Upgrade Ke Fitur Premium
   Note : Donasi Seikhlasnya`)
@@ -1400,7 +1400,7 @@ case prefix+'join':
 // By Christian ID
 case prefix+'wame':
 if (isLimit(sender, isPremium, isOwner, limitCount, limit)) return reply (`Limit kamu sudah habis silahkan kirim ${prefix}limit untuk mengecek limit`)
-if (args.length < 2) return reply(`Kirim perintah ${command} 62899xxxxxxxx`)
+if (args.length < 2) return reply(`Kirim perintah ${command} 6011xxxxxxx`)
 reply(`*[ WAME ]*\n*_Link : https://wa.me/${q}_*`)
 limitAdd(sender, limit)
 break
