@@ -6,7 +6,7 @@
   "sessionName": "session",
   "pathimg": "./media/chris2.jpg",
   "gamewaktu": 90,
-  "limitCount": 40,
+  "limitCount": 400,
   "gcount": {
 	"prem": 9999,
 	"user": 30
